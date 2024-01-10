@@ -191,6 +191,9 @@
     position: relative;
     padding: 0px;
 }
+p {
+    text-align: justify;
+}
 
 .modal-video .close {
     position: absolute;
