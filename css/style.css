@@ -431,3 +431,28 @@ p {
 .testimonial-carousel .owl-dot.active::after {
     background: var(--primary);
 }
+
+.cv-card {
+    max-width: 800px;
+    margin: auto;
+    padding: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cv-card h2 {
+    color: #007BFF;
+}
+
+.cv-card h3 {
+    color: #343a40;
+}
+
+.cv-card p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #6C757D;
+}
+
+.cv-card hr {
+    border-top: 1px solid #6C757D;
+}
